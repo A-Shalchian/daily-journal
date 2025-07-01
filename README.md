@@ -79,4 +79,4 @@ For continuous operation without keeping your computer on:
 
 ## License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
